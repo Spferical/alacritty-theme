@@ -186,7 +186,7 @@ configuration file.
 | **_ubuntu_**<br>[source](https://design.ubuntu.com/brand/colour-palette/)                                                                                      | ![ubuntu](images/ubuntu.png)                                               |
 | **_vesper_**<br>[source](https://github.com/raunofreiberg/vesper)                                                                                              | ![vesper](images/vesper.png)                                               |
 | **_vscode_**<br>[source](https://github.com/microsoft/vscode/blob/main/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts)                      | ![vscode](images/vscode.png)                                               |
-| **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                                                                             | ![wombat](images/wombat.png)                                               |
+| **_wombat_**<br>[source](https://www.vim.org/scripts/script.php?script_id=2465)                                                                                | ![wombat](images/wombat.png)                                               |
 | **_xterm_**                                                                                                                                                    | ![xterm](images/xterm.png)                                                 |
 | **_zenburn_**<br>[source](https://github.com/jnurmine/Zenburn)                                                                                                 | ![zenburn](images/zenburn.png)                                             |
 
